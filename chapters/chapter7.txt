@@ -1,0 +1,33 @@
+learning: the acquisition of new knowledge, skills, or responses from experience that results in relatively permanent change in the state of the learner
+habituation: a general process in which repeated or prolonged exposure to a stimulus results in a gradual reduction in responding
+sensitization: a simple form of learning that occurs when presentation of a stimulus leads to an increased response to a later stimulus
+classical condition: a type of learning that occurs when presentation of a stimulus leads to a response after being paired with a stimulus that naturally produces a response
+unconditioned stimulus (US): something that reliably produces a naturally occurring reaction in an organism
+unconditioned response (UR): a reflexive reaction that is reliably produced by an unconditioned stimulus
+conditioned stimulus (CS): a previously neutral stimulus that produces a reliable response in an organism after being paired with an unconditioned response
+conditioned response (CR): a reaction that resembles an unconditioned response but is produced by a conditioned stimulus
+acquisition: the phase of classical conditioning when the the CS and US are presented together
+second-order conditioning: conditioning where a CS is paired with a stimulus that became associated with the US in an earlier procedure
+extinction: the gradual elimination of a learned response that occurs when the CS is repeatedly presented without the US
+spontaneous recovery: the tendency of a learned behavior to recover from extinction after a rest period
+generalization: the CR is observed even though the CS is slightly different from the CS used during acquisition
+discrimination: the capacity to distinguish between similar but distinct stimuli
+biological preparedness: a propensity for learning particular kinds of associations over others
+operant conditioning: a type of learning in which the consequence of an organism’s behavior determine whether it will be repeated in the future
+law of effort: behaviors that are followed by a “satisfying state of affairs” tend to be repeated and those that produced an “unpleasant state of affairs” are less likely to be repeated
+operant behavior: behavior that an organism produces that has some impact on the environment
+reinforcer: any stimulus or even that functions to increase the likelihood of the behavior that led to it
+punisher: any stimulus that functions to decrease the likelihood of the behavior that led to it
+fixed-interval schedule (FI): reinforcers are presented at fixed-time periods, provided that the appropriate response is made
+variable-interval schedule: a behavior is reinforced based on an average time that has expired since the last reinforcement
+fixed-ratio schedule (FR): reinforcement is delivered after a specific number of responses have been made
+variable-ratio schedule (VR): the delivery of reinforcement is based on a particular average number of responses
+intermittent reinforcement: when only some of the responses made are followed by reinforcement
+intermittent reinforcement effect: the fact that operant behaviors that are maintained under intermittent reinforcement schedules resist extinction better than those maintained under continuous reinforcement
+shaping: learning that results from the reinforcement of successive steps to a final desired behavior
+latent learning: something is learned, but it is not manifested as a behavioral change until sometime in the future
+cognitive map: a mental representation of the physical features of the environment
+medial forebrain bundle: a pathway that meanders its way from the midbrain through the hypothalamus into the nucleus accumbens, are the most susceptible to stimulation that produce pleasure
+observational learning: learning takes place by watching the reaction of others
+diffusion chain: individuals initially learn a behavior by observing another individual perform that behavior, and then serve as a model from which other individuals learn the behavior
+implicit learning: learning that takes place largely independent of awareness of both the process and the products of information acquisition

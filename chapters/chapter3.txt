@@ -1,0 +1,23 @@
+neurons: cells in the nervous system that communicate with one another to perform information-processing tasks
+cell body (soma): the part of the neuron that coordinates information-processing tasks and keeps the cell alive 
+dendrite: the party of the neuron that receives information from other neurons and relays it to the cell body
+axon: the part of the neuron that carries information to other neurons, muscles, or glands
+myelin sheath: an insulating layer of fatty material (is composed of glial cells)
+glial cells: support cells found in the nervous system
+synapse: the junction between the axon of one neuron and the dendrites or cell body of another
+sensory neurons: neurons that receive information from the external world and convey this information to the brain via the spinal cord
+motor neurons: neurons that carry signals from the spinal cord to the muscles that produce movement
+interneurons: neurons that connect sensory neurons, motor neurons, or other interneurons
+action potential: an electrical signal that is conducted along a neuron’s axon to synapse
+refractory period: the time following an action potential during which a new action potential cannot be initiated
+terminal buttons: knoblike structures that branch out from an axon
+neurotransmitters: chemicals that transmit information across the synapse to a receiving neuron’s dendrites
+receptors: parts of the cell membrane that receive the neurotransmitter and initiate or prevent a new electric signal
+acetylcholine: a neurotransmitter involved in a number of functions, including voluntary motor control
+dopamine: a neurotransmitter that regulates motor behavior, motivation, pleasure, and emotional arousal
+glutamate: the major excitatory neurotransmitter in the brain
+GABA (gamma-aminobutyric acid): the primary inhibitory neurotransmitter in the brain
+norepinephrine: a neurotransmitter that is particularly involved in states of vigilance, or heightened awareness of dangers in the environment
+endorphins: chemicals that act within the pain pathways and emotion centers of the brain
+agonists: drugs that increase the action of a neurotransmitter
+antagonists: drugs that block the function of a neurotransmitter

@@ -1,0 +1,36 @@
+semantic encoding: the process of relating new information in a meaningful way to knowledge that is already stored in memory
+visual imagery encoding: the process of storing new information by converting it into mental pictures
+organizational encoding: the process of categorizing information according to the relationships among a series of items
+sensory memory:  a type of storage the holds sensory information for a few seconds or less
+iconic memory: a fast-decaying store of visual information
+echoic memory: a fast-decaying store of auditory information
+short-term memory: a type of storage that holds nonsensory information for more than a few seconds but less than a minute
+rehearsal: the process of keeping information in short-term memory by mentally repeating it
+chunking: combining small pieces of information into larger clusters or chunks that are more easily held in short-term memory
+working memory: active maintenance of information in short-term storage
+anterograde amnesia: the inability to transfer new information from the short-term store into the long-term store
+retrograde amnesia: the inability to retrieve information that was acquired before a particular date, usually the date of an injury or surgery
+consolidation: the process by which memories become stable in the brain
+long-term potentiation: a process whereby communication across the synapse between neurons strengthens the connection, making further communication easier
+retrieval cue: external information that is associated with stored information and helps bring it to mind
+encoding specificity principle: the idea that a retrieval cue can server as an effective reminder when it helps re-create the specific way in which information was initially encoded 
+state-dependent retrieval: the tendency for information to be better recalled when the person is in the same state during encoding and retrieval
+transfer-appropriate processing: the idea that memory is likely to transfer from one situation to another when the encoding and retrieval contexts of the situation match
+retrieval-induced forgetting: a process by which retrieving an item from long-term memory impairs subsequent recall of related items
+explicit memory: occurs when people consciously or intentionally retrieve past experiences 
+implicit memory: occurs when past experiences influence later behavior and performance, even without an effort to remember them or an awareness of the recollection
+procedural memory: the gradual acquisition of skills as a result of practice, or “knowing how” to do things
+priming: an enhanced ability to think of a stimulus, such as a word or object, as a result of a recent exposure to the stimulus
+semantic memory: a network of associated facts and concepts that make up our general knowledge of the world
+episodic memory: the collection of past personal experiences that occurred at a particular time and place
+transience: forgetting what occurs with the passage of time
+retroactive interference: situations in which later learning impairs memory for information acquired earlier
+proactive interference: situations in which later learning impairs memory for information acquired later
+absentmindedness: a lapse in attention that results in memory failure
+blocking: a failure to retrieve information that is available in memory even though you are trying to produce it
+memory misattribution: assigning a recollection or an idea to the wrong source
+source memory: recall of when, where, and how information was acquired
+false recognition: a feeling of familiarity about something that hasn’t been encountered before
+suggestibility: the tendency to incorporate misleading information from external sources into personal recollections
+bias: the distorting influences of present knowledge, beliefs, and feelings on recollection of previous experience
+amygdala: influences hormonal systems that kick into high gear when we experience an arousing event; these stress-related hormones, such as adrenaline and cortisol, mobilize the body in the face of threat—and they also enhance memory for the experience. Damage to the amygdala does not result in a general memory deficit. Individuals with amygdala damage, however, do not remember emotional events any better than nonemotional events

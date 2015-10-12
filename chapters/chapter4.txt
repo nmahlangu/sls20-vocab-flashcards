@@ -1,0 +1,43 @@
+sensation: simple stimulation of a sense organ
+perception: the organization, identification, and interpretation of a sensation in order to form a mental representation
+transduction: what takes place when many sensors in the body convert physical signals from the environment into encoded neural signals sent to the central nervous system
+psychophysics: methods that measure the strength of a stimulus and the observer’s sensitivity to that stimulus
+absolute threshold: the minimal intensity needed to just barely detect a stimulus in 50% of the trials
+just noticeable difference (JND): the minimal change in a stimulus that can just barely be detected
+Weber’s law: the just noticeable difference of a stimulus is a constant proportion despite variations in intensity
+signal detection theory: the response to a stimulus depends both on a person’s sensitivity to the stimulus in the presence of noise and on a person’s response criterion
+sensory adaption: sensitivity to prolonged stimulation tends to decline over time as an organism adapts to current conditions
+retina: light-sensitive tissue lining the back of the eyeball
+accommodation: the process by which the eye maintains a clear image on the retina
+cones: photoreceptors that detect color, operate under normal daylight conditions, and allows us to focus on fine detail
+rods: photoreceptors that become active under low-light conditions for night vision
+fovea: an area of the retina where vision is the clearest and there are no rods at all 
+blind spot: a location in the visual field that produces no sensation on the retina
+color-opponent system: pairs of visual neurons that work in opposition
+area V1: the part of the occipital lobe that contains the primary visual cortex
+binding problem: how features are linked together so that we see unified objects in our visual world rather than a free-floating or mis-combined features
+illusory conjunction: a perceptual mistake where features from multiple objects are incorrectly combined
+feature-integration theory: the idea that focused attention is not required to detect the individual features that comprise a stimulus, but is required to bind those individual features together
+perceptual constancy: a perceptual principle stating that even as aspects of sensory signals change, perception remains consistent
+template: a mental representation that can be directly compared to a viewed shape in the retinal image
+monocular depth cues: aspects of a scene that yield information about depth when viewed with only one eye
+binocular disparity: the difference in retinal images of the two eyes that provides information about the depth
+apparent motion: the perception of movement as a result of alternating signals appearing in rapid succession in different locations
+change blindness: when people fail to detect changes to the visual details of a scene
+inattentional blindness: a failure to perceive objects that are not the focus of attention
+pitch: how high or low a sound is
+loudness: a sound’s intensity
+timbre: a listener’s experience of sound quality or resonance
+cochlea: a fluid filled tube that is the organ of auditory transduction
+basilar membrane: a structure in the inner ear that undulates when vibrations from the ossicles reach the cochlear fluid
+hair cells: specialized auditory receptor neurons embedded in the basilar membrane
+area A1: a portion of the temporal lobe that contains the primary auditory cortex
+place code: the process by which different frequencies stimulate neural signals at specific places along the basilar membrane, from which the brain determines pitch
+temporal code: the cochlea registers low frequencies via the firing rate of action potentials entering the auditory nerve
+referred pain: feeling of pain when sensory information from internal and external areas converges on the same nerve cells in the spinal cord
+gate-control theory of pain: a theory of pain perception based on the idea that signals arriving from pain receptors in the body can be stopped, or gated, by interneurons in the spinal cord via feedback from two directions
+vestibular system: the tree fluid-filled semicircular canals and adjacent organs located next to the cochlea in each inner ear
+olfactory receptor neurons (ORNs): receptor cells that initiate the sense of smell
+olfactory bulb: a brain structure located above the nasal cavity beneath the frontal lobes
+pheromones: biochemical odorants emitted by other members of its species that can affect an animal’s behavior or physiology
+taste buds: the organ of taste transduction
