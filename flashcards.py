@@ -33,7 +33,7 @@ def practice(chapter_num,d):
     keys = d.keys()
     print "*****************************************************************"
     print "Practicing with Chapter %d, there are %d vocabulary words" % (chapter_num,len(keys))
-    print "Once the words is displayed, press any key to see the definition"
+    print "Once the words is displayed, press enter to see the definition"
     print "*****************************************************************"
     while keys:
         key = random.choice(keys)
