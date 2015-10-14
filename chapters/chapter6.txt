@@ -13,7 +13,7 @@ retrograde amnesia: the inability to retrieve information that was acquired befo
 consolidation: the process by which memories become stable in the brain
 long-term potentiation: a process whereby communication across the synapse between neurons strengthens the connection, making further communication easier
 retrieval cue: external information that is associated with stored information and helps bring it to mind
-encoding specificity principle: the idea that a retrieval cue can server as an effective reminder when it helps re-create the specific way in which information was initially encoded 
+encoding specificity principle: the idea that a retrieval cue can serve as an effective reminder when it helps re-create the specific way in which information was initially encoded 
 state-dependent retrieval: the tendency for information to be better recalled when the person is in the same state during encoding and retrieval
 transfer-appropriate processing: the idea that memory is likely to transfer from one situation to another when the encoding and retrieval contexts of the situation match
 retrieval-induced forgetting: a process by which retrieving an item from long-term memory impairs subsequent recall of related items

@@ -36,7 +36,7 @@ place code: the process by which different frequencies stimulate neural signals 
 temporal code: the cochlea registers low frequencies via the firing rate of action potentials entering the auditory nerve
 referred pain: feeling of pain when sensory information from internal and external areas converges on the same nerve cells in the spinal cord
 gate-control theory of pain: a theory of pain perception based on the idea that signals arriving from pain receptors in the body can be stopped, or gated, by interneurons in the spinal cord via feedback from two directions
-vestibular system: the tree fluid-filled semicircular canals and adjacent organs located next to the cochlea in each inner ear
+vestibular system: the three fluid-filled semicircular canals and adjacent organs located next to the cochlea in each inner ear
 olfactory receptor neurons (ORNs): receptor cells that initiate the sense of smell
 olfactory bulb: a brain structure located above the nasal cavity beneath the frontal lobes
 pheromones: biochemical odorants emitted by other members of its species that can affect an animal’s behavior or physiology
