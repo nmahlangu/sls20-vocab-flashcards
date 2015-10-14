@@ -1,6 +1,6 @@
 neurons: cells in the nervous system that communicate with one another to perform information-processing tasks
 cell body (soma): the part of the neuron that coordinates information-processing tasks and keeps the cell alive 
-dendrite: the party of the neuron that receives information from other neurons and relays it to the cell body
+dendrite: the part of the neuron that receives information from other neurons and relays it to the cell body
 axon: the part of the neuron that carries information to other neurons, muscles, or glands
 myelin sheath: an insulating layer of fatty material (is composed of glial cells)
 glial cells: support cells found in the nervous system
